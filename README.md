@@ -79,6 +79,9 @@ WiseTech invests heavily in AI and automation, utilizing machine learning for cu
 
 **Notable clients:** DHL, FedEx, Nippon Express, global freight forwarders
 
+![Top logistics software development companies in 2026](image.png)
+
+
 ### 4. [Optym](https://www.optym.com/)
 Optym specializes in optimization software for logistics-intensive industries, particularly focusing on mathematical algorithms and AI-driven solutions. The company delivers crew management systems for airlines, predictive scheduling for railroads, and route optimization for transportation networks. 
 
